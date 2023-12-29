@@ -3,7 +3,7 @@
 This project is a machine learning-based solution aimed at predicting the likelihood of heart disease in individuals based on various health parameters. Leveraging data science techniques, it utilizes a dataset containing essential features related to cardiovascular health to build a predictive model.
 
 # Features:
-** Data Collection **: Exploring and gathering a comprehensive dataset from reputable sources that encompass various health metrics and historical records. \
+**Data Collection**: Exploring and gathering a comprehensive dataset from reputable sources that encompass various health metrics and historical records. \
 ** Data Preprocessing **: Cleaning and preprocessing the dataset, handling missing values, and performing feature engineering to extract relevant information for model building. \
 ** Exploratory Data Analysis (EDA) **: Conducting in-depth analysis and visualization to gain insights into correlations between different health attributes and their impact on heart disease. \
 ** Model Development **: Employing machine learning algorithms such as Random Forest, Logistic Regression, or Neural Networks to train and evaluate predictive models. \
