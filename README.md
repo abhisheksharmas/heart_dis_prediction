@@ -1,5 +1,5 @@
-#Heart Disease Prediction Project
-##Overview:
+# Heart Disease Prediction Project
+## Overview:
 This project is a machine learning-based solution aimed at predicting the likelihood of heart disease in individuals based on various health parameters. Leveraging data science techniques, it utilizes a dataset containing essential features related to cardiovascular health to build a predictive model.
 
 #Features:
