@@ -17,4 +17,4 @@ Implementing more advanced machine learning algorithms like XGBoost or Support V
 Deploying the model as a web application or API for real-time predictions.
 Integrating additional health data sources to enhance prediction accuracy and reliability.
 
-[image](cap2.PNG)
+![image](cap2.PNG)
