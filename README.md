@@ -4,14 +4,14 @@ This project is a machine learning-based solution aimed at predicting the likeli
 
 # Features:
 **Data Collection**: Exploring and gathering a comprehensive dataset from reputable sources that encompass various health metrics and historical records. \
-** Data Preprocessing **: Cleaning and preprocessing the dataset, handling missing values, and performing feature engineering to extract relevant information for model building. \
-** Exploratory Data Analysis (EDA) **: Conducting in-depth analysis and visualization to gain insights into correlations between different health attributes and their impact on heart disease. \
-** Model Development **: Employing machine learning algorithms such as Random Forest, Logistic Regression, or Neural Networks to train and evaluate predictive models. \
-** Model Evaluation **: Assessing model performance using appropriate metrics like accuracy, precision, recall, and F1-score to ensure reliability and effectiveness. \
+**Data Preprocessing**: Cleaning and preprocessing the dataset, handling missing values, and performing feature engineering to extract relevant information for model building. \
+**Exploratory Data Analysis (EDA)**: Conducting in-depth analysis and visualization to gain insights into correlations between different health attributes and their impact on heart disease. \
+**Model Development**: Employing machine learning algorithms such as Random Forest, Logistic Regression, or Neural Networks to train and evaluate predictive models. \
+**Model Evaluation**: Assessing model performance using appropriate metrics like accuracy, precision, recall, and F1-score to ensure reliability and effectiveness. \
 # Technologies Used:
-** Programming Languages **: Python
-** Libraries **: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-** Machine Learning Techniques **: Supervised Learning, Feature Engineering, Model Evaluation
+**Programming Languages**: Python
+**Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+**Machine Learning Techniques**: Supervised Learning, Feature Engineering, Model Evaluation
 # Future Enhancements:
 Implementing more advanced machine learning algorithms like XGBoost or Support Vector Machines for improved accuracy.
 Deploying the model as a web application or API for real-time predictions.
