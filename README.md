@@ -16,3 +16,5 @@ This project is a machine learning-based solution aimed at predicting the likeli
 Implementing more advanced machine learning algorithms like XGBoost or Support Vector Machines for improved accuracy.
 Deploying the model as a web application or API for real-time predictions.
 Integrating additional health data sources to enhance prediction accuracy and reliability.
+
+(cap2.PNG)
